@@ -1,0 +1,40 @@
+h2{
+    text-align: center;
+    color: white;
+    background-color: lightblue;
+    font-style: normal;
+   
+}
+.press{
+    background-color: white;
+    color: lightblue;
+    font-style: normal;
+    font-weight: bold;
+    
+}
+button:hover{
+    background-color: lightblue;
+    color: white;
+}
+div {
+  text-align: center;
+}
+body{
+    text-align:center;
+    background:url(https://cutewallpaper.org/21/light-background-tumblr/light-blue-background-tumblr-5-background-check-all-in-.jpg);
+    color:white;
+}
+p{
+   background-color: lightblue;
+    color: white;
+    font-style: normal;
+    font-weight: bold; 
+}
+.gallery img {
+    height: 200px;
+    border: 7px double white;
+}
+.gallery p {
+    height: 200px;
+    border: 7px double white;
+}
